@@ -7,6 +7,10 @@ Nesta aula nós vamos aproveitar todo o conhecimento das aulas anteriores para c
 * Daremos vida a esse objeto utilizando contaagem de ciclos e atualização de imagens.
 * Integraremos o novo objeto ao mundo com um simples uso do método move().
 
+## Vídeo Aula
+* [Assista ao vídeo desta aula](https://www.youtube.com/playlist?list=PLkObiPpjQQ-fcKFelZvZjV2xMwqkRZvuL)
+
+
 ## Equipe | Team
 * Daniel de Oliveira
 * Luciene Cavalcante
